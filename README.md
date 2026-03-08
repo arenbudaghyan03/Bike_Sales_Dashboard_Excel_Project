@@ -1,4 +1,5 @@
 # 📊 Excel Data Analysis Project – Bike Buyers Dataset
+![Bike Sales Dashboard](dashboard.jpg)
 
 ---
 
